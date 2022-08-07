@@ -2,6 +2,8 @@ package javaproblems;
 
 import java.util.Scanner;
 
+/* Hacker Rank Java Loops || */
+
 public class JavaLoopsTwo {
 
 
