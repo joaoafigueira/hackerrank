@@ -1,5 +1,7 @@
 package javaproblems;
 
+import java.util.Calendar;
+import java.util.Locale;
 import java.util.Scanner;
 
 /* Hacker Rank Primitive Data Types*/
@@ -27,8 +29,25 @@ public class DataTypes {
 
         }
 
+        findDay(8,05,2015);
+
 
     }
+    public static String findDay(int month, int day, int year) {
+
+        Calendar cal = Calendar.getInstance();
+
+        cal.set(Calendar.MONTH, month);
+        System.out.println(month);
+        cal.set(Calendar.DAY_OF_MONTH, day);
+        cal.set(Calendar.YEAR,year);
+
+        String weekDay = cal.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG, Locale.US).toUpperCase();
+
+        return weekDay;
+
+    }
+
 
 
 }
