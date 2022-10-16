@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39ca5802-49bb-495b-9777-be783e2b9f94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/logicproblems/DiagonalDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logicproblems/DiagonalDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logicproblems/DiagonalDifference.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665338808052</updated>
       <workItem from="1665338816968" duration="5271000" />
-      <workItem from="1665947004770" duration="2336000" />
+      <workItem from="1665947004770" duration="2852000" />
     </task>
     <servers />
   </component>
@@ -82,16 +81,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/logicproblems/DiagonalDifference.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

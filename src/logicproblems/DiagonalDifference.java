@@ -4,6 +4,8 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
+/* Hacker rank Diagonal Difference */
+
 public class DiagonalDifference {
 
     public static int diagonalDifference(List<List<Integer>> arr) {
